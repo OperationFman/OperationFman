@@ -10,68 +10,26 @@
 
 ## Goals for 2022
 | Languages | Frameworks | Tools | Cloud | Misc. |
+| Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
 | C# | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
-| Bash/Shell | GraphQL | Unity Engine 2D | AWS Gateway | Volunteer | 
-| German |  | OAuth 2.0 | AWS Gateway | Travel Thailand, Cambodia & Vietnam |
-|  |  |  | AWS Lambda |  |
+| Bash/Shell |  | Unity Engine 2D | AWS Gateway | Volunteer | 
+| GraphQL |  | OAuth 2.0 | AWS Gateway | Travel Thailand, Cambodia & Vietnam |
+| German |  |  | AWS Lambda |  |
 |  |  |  | Redis |  |
 |  |  |  | Deploy to Vercel |  |
 
 
 
 ## Goals for 2021
-~~Rapid API~~
-
-~~React~~
-
-~~Typescript~~
-
-GraphQL
-
-~~Git~~
-
-~~Test Driven Development~~
-
-~~Object-Oriented Programming~~
-
-~~CircleCI~~
-
-~~Deploy to Heroku~~
-
-GoLang
-
-~~ES6 Javascript~~
-
-~~PostgreSQL~~
-
- ~~Axios / REST~~
- 
-Ruby
-
-~~Java~~
-
-~~SpringBoot~~
-
-~~Docker~~
-
-~~Deploy to AWS EC2~~
-
-~~Terraform~~
-
-Deploy to Firebase
-
-Wix
-
-~~Auth0~~
-
-~~Adobe InDesign~~
-
-~~Figma~~
-
-Teach Programming
-
-~~Travel Australia~~
+| Languages | Frameworks | Tools | Cloud | Misc. |
+| ----- | ----- | ----- | ----- | ----- |
+| ~~Typescript~~ | ~~Rapid API~~ | ~~CircleCI~~ | ~~Deploy to Heroku~~ | ~~Test Driven Development~~ |
+| GoLang | ~~React~~ | ~~Git~~ | ~~Deploy to AWS EC2~~ | ~~Object-Oriented Programming~~ |
+| ~~ES6 Javascript~~ | ~~Axios / REST~~ | ~~Docker~~ | ~~Terraform~~ | ~~Adobe InDesign~~ |
+| GraphQL |  ~~Axios / REST~~ | ~~PostgreSQL~~ | Deploy to Firebase | ~~Figma~~ |
+| ~~Java~~ | ~~SpringBoot~~ | Wix |  | Teach Programming |
+| Ruby | | ~~Auth0~~ |  | ~~Travel Australia~~ |
 
 
 ## Goals for 2020
