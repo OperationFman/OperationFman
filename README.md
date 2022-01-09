@@ -1,8 +1,8 @@
 ### Hi, I'm Franklin 👋 Developer, Designer and Volunteer!
 
 - 🔭 I’m currently working at Thoughtworks Australia
-- 🌱 I’m currently learning React Native, AWS Infrastructure and Unity Engine
-- 💬 Ask me about Frontend Development, Adobe Design and PC Building
+- 🌱 I grew up in Australia and am hoping to immigrate to Germany soon
+- 💬 Ask me about Full Stack Web Development, Adobe Design, gaming and PC Building
 - 😄 Pronouns: Anything you like, He/She/Them all-good!
 - ⚡ Fun fact: I travel to atleast one new country every year and make a travel video
 
