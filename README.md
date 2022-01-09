@@ -24,8 +24,8 @@
 ## Goals for 2021
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
-| ~~Typescript~~ | ~~SpringBoot~~ | ~~Docker~~ | ~~Deploy to AWS EC2~~ | ~~Test Driven Development~~ |
-| ~~Java~~ | ~~React~~ | ~~Git~~ | ~~Deploy to Heroku~~ | ~~Object-Oriented Programming~~ |
+| ~~Typescript~~ | ~~React~~ | ~~Docker~~ | ~~Deploy to AWS EC2~~ | ~~Test Driven Development~~ |
+| ~~Java~~ | ~~SpringBoot~~ | ~~Git~~ | ~~Deploy to Heroku~~ | ~~Object-Oriented Programming~~ |
 | ~~ES6 Javascript~~ | ~~Rapid API~~ | ~~Adobe InDesign~~ | ~~Terraform~~ |  |
 | GraphQL |  | ~~Figma~~ | ~~CircleCI~~ |  |
 | Go |  |  | Deploy to Firebase |  |
