@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I travel to atleast one new country every year and make a travel video
 
 
-## Deployed PRojects:
+## Public Deployed Projects:
 [✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [🕹️ Squad Picker](https://mass-effect-crewed.herokuapp.com/) | [📈 Stock Tracker](http://tw-stock-tracker.franklinvmoon.com/) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
 
 
