@@ -1,6 +1,6 @@
 ### Hi, I'm Franklin 👋 Developer, Designer and Volunteer!
 
-- 🔭 I’m currently working at Thoughtworks Australia
+- 🔭 I’m currently working for [Thoughtworks](https://www.thoughtworks.com/en-au)
 - 🌱 I grew up in Australia and am hoping to immigrate to Germany soon
 - 💬 Ask me about Full Stack Web Development, Adobe Design, gaming and PC Building
 - 😄 Pronouns: Anything you like, He/She/Them all-good!
