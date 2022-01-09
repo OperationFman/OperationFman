@@ -26,10 +26,8 @@
 | GoLang | ~~React~~ | ~~Git~~ | ~~Deploy to AWS EC2~~ | ~~Object-Oriented Programming~~ |
 | ~~ES6 Javascript~~ | ~~Axios / REST~~ | ~~Docker~~ | ~~Terraform~~ | Teach Programming |
 | GraphQL |  ~~Axios / REST~~ | ~~PostgreSQL~~ | Deploy to Firebase |  |
-| ~~Java~~ | ~~SpringBoot~~ | Wix |  |  |
-| Ruby | | ~~Auth0~~ |  |  |
-|  |  | ~~Adobe InDesign~~ |  |  |
-|  |  | ~~Figma~~ |  |  |
+| ~~Java~~ | ~~SpringBoot~~ | ~~Adobe InDesign~~ | ~~Auth0~~ |  |
+| Ruby | | ~~Figma~~ |  |  |
 
 
 ## Goals for 2020
