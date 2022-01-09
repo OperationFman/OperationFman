@@ -14,9 +14,9 @@
 ## Goals for 2022
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
-| C# | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
+| GraphQL | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
 | Bash/Shell |  | Unity Engine 2D | AWS Gateway | Volunteer | 
-| GraphQL |  | Redis | AWS Lambda |  |
+| C# |  | Redis | AWS Lambda |  |
 | German |  |  | Deploy to Vercel |  |
 
 
@@ -24,19 +24,18 @@
 ## Goals for 2021
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
-| ~~Typescript~~ | ~~Rapid API~~ | ~~CircleCI~~ | ~~Deploy to Heroku~~ | ~~Test Driven Development~~ |
-| GoLang | ~~React~~ | ~~Git~~ | ~~Deploy to AWS EC2~~ | ~~Object-Oriented Programming~~ |
-| ~~ES6 Javascript~~ | ~~Axios / REST~~ | ~~Docker~~ | ~~Terraform~~ | Teach Programming |
-| GraphQL |  ~~Axios / REST~~ | ~~PostgreSQL~~ | Deploy to Firebase |  |
-| ~~Java~~ | ~~SpringBoot~~ | ~~Adobe InDesign~~ | ~~Auth0~~ |  |
-| Ruby | | ~~Figma~~ |  |  |
-
+| ~~Typescript~~ | ~~SpringBoot~~ | ~~Docker~~ | ~~Deploy to AWS EC2~~ | ~~Test Driven Development~~ |
+| ~~Java~~ | ~~React~~ | ~~Git~~ | ~~Deploy to Heroku~~ | ~~Object-Oriented Programming~~ |
+| ~~ES6 Javascript~~ | ~~Axios / REST~~ | ~~PostgreSQL~~ | ~~Terraform~~ |  |
+| GraphQL |  ~~Auth0~~ | ~~Adobe InDesign~~ | ~~CircleCI~~ |  |
+| GoLang | ~~Rapid API~~ | ~~Figma~~ | Deploy to Firebase |  |
+ 
 
 ## Goals for 2020
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
-| ~~Python~~ | ~~Flask~~ | Docker | ~~Deploy to Python Anywhere~~ | ~~Functional Programming~~ |
+| ~~Python~~ | ~~Flask~~ | ~~Adobe Premiere~~ | ~~Deploy to Python Anywhere~~ | ~~Functional Programming~~ |
 | ~~SQL~~ | ~~Django~~ | ~~Adobe XD~~ | Deploy to AWS |  |
 | ~~Javascript~~ | ~~ExpressJS~~ | ~~Adobe After Effects~~ |  |  |
-| ~~HTML 5~~ | ~~JQuery~~ | ~~Adobe Premiere~~ |  |  |
+| ~~HTML 5~~ | ~~JQuery~~ | Docker |  |  |
 | ~~CSS 3~~ |  |  |  |  |
