@@ -8,7 +8,7 @@
 
 
 ## Quick Links
-[💼 LinkedIn](https://www.linkedin.com/in/franklin-moon-23572518a/) | [🕹️ Game Crew Picker](https://mass-effect-crewed.herokuapp.com/) | [✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [📈 Stock Tracker](tw-stock-tracker.franklinvmoon.com) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
+[💼 LinkedIn](https://www.linkedin.com/in/franklin-moon-23572518a/) | [🕹️ Game Crew Picker](https://mass-effect-crewed.herokuapp.com/) | [✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [📈 Stock Tracker](http://tw-stock-tracker.franklinvmoon.com/) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
 
 
 ## Goals for 2022
