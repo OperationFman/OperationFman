@@ -25,9 +25,9 @@
 | ----- | ----- | ----- | ----- | ----- |
 | ~~Typescript~~ | ~~Rapid API~~ | ~~CircleCI~~ | ~~Deploy to Heroku~~ | ~~Test Driven Development~~ |
 | GoLang | ~~React~~ | ~~Git~~ | ~~Deploy to AWS EC2~~ | ~~Object-Oriented Programming~~ |
-| ~~ES6 Javascript~~ | ~~Axios / REST~~ | ~~Docker~~ | ~~Terraform~~ |  |
+| ~~ES6 Javascript~~ | ~~Axios / REST~~ | ~~Docker~~ | ~~Terraform~~ | Teach Programming |
 | GraphQL |  ~~Axios / REST~~ | ~~PostgreSQL~~ | Deploy to Firebase |  |
-| ~~Java~~ | ~~SpringBoot~~ | Wix |  | Teach Programming |
+| ~~Java~~ | ~~SpringBoot~~ | Wix |  |  |
 | Ruby | | ~~Auth0~~ |  |  |
 |  |  | ~~Adobe InDesign~~ |  |  |
 |  |  | ~~Figma~~ |  |  |
@@ -36,12 +36,12 @@
 ## Goals for 2020
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
-| ~~Python~~ | ~~Flask~~ | Docker | ~~Deploy to Python Anywhere~~ |  |
+| ~~Python~~ | ~~Flask~~ | Docker | ~~Deploy to Python Anywhere~~ | ~~Functional Programming~~ |
 | SQL | ~~Django~~ | ~~Adobe XD~~ | Deploy to AWS |  |
-| ~~HTML 5~~ | ~~ExpressJS~~ | ~~Adobe After Effects~~ |  |  |
-| ~~CSS~~ | ~~JQuery~~ | ~~Adobe Premiere~~ |  |  |
-| ~~Javascript~~ |  |  |  |  |
+| ~~Javascript~~ | ~~ExpressJS~~ | ~~Adobe After Effects~~ |  |  |
+| ~~HTML 5~~ | ~~JQuery~~ | ~~Adobe Premiere~~ |  |  |
+| ~~CSS 3~~ |  |  |  |  |
 
 
 ## Quick Links
-[LinkedIn](https://www.linkedin.com/in/franklin-moon-23572518a/) | [Game Crew Picker](https://mass-effect-crewed.herokuapp.com/) | [Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [Game Crew Picker](https://mass-effect-crewed.herokuapp.com/) | [Stock Tracker](tw-stock-tracker.franklinvmoon.com) | [First Ever Project](http://opfman.pythonanywhere.com/)
+[LinkedIn](https://www.linkedin.com/in/franklin-moon-23572518a/) | [Game Crew Picker](https://mass-effect-crewed.herokuapp.com/) | [Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [Stock Tracker](tw-stock-tracker.franklinvmoon.com) | [First Ever Project](http://opfman.pythonanywhere.com/)
