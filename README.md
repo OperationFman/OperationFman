@@ -28,7 +28,7 @@
 
 
 ## Goals for 2021
-- [*] Rapid API
+- [x] Rapid API
 - [x] React
 - [x] Typescript
 - [ ] GraphQL
