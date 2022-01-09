@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I travel to atleast one new country every year and make a travel video
 
 
-##Goals for 2022
+## Goals for 2022
 - [ ] React Native
 - [ ] Kubernetes
 - [ ] AWS DynamoDB
@@ -27,8 +27,8 @@
 - [ ] Travel Thailand, Cambodia & Vietnam
 
 
-##Goals for 2021
-- [x] Rapid API
+## Goals for 2021
+- [*] Rapid API
 - [x] React
 - [x] Typescript
 - [ ] GraphQL
@@ -56,7 +56,7 @@
 - [x] Travel Australia
 
 
-##Goals for 2020
+## Goals for 2020
 - [x] Python
 - [x] Flask
 - [x] Django
@@ -75,5 +75,5 @@
 - [x] Live in Japan
 - [ ] Live in China
 
-##Quick Links
+## Quick Links
 [LinkedIn](https://www.linkedin.com/in/franklin-moon-23572518a/) | [Game Crew Picker](https://mass-effect-crewed.herokuapp.com/) | [Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [Game Crew Picker](https://mass-effect-crewed.herokuapp.com/) | [Stock Tracker](tw-stock-tracker.franklinvmoon.com) | [First Ever Project](http://opfman.pythonanywhere.com/)
