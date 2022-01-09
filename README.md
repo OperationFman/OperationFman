@@ -9,37 +9,15 @@
 
 
 ## Goals for 2022
-React Native
+| Languages | Frameworks | Tools | Cloud | Misc. |
+| ----- | ----- | ----- | ----- | ----- |
+| C# | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
+| Bash/Shell | GraphQL | Unity Engine 2D | AWS Gateway | Volunteer | 
+| German |  | OAuth 2.0 | AWS Gateway | Travel Thailand, Cambodia & Vietnam |
+|  |  |  | AWS Lambda |  |
+|  |  |  | Redis |  |
+|  |  |  | Deploy to Vercel |  |
 
-Kubernetes
-
-AWS DynamoDB
-
-AWS Gateway
-
-AWS Lambda
-
-C#
-
-Unity Engine 2D
-
-Deploy to Vercel
-
-Redis
-
-GraphQL
-
-OAuth 2.0
-
-Bash/Shell
-
-Contribute to Stack Overflow
-
-Volunteer
-
-German
-
-Travel Thailand, Cambodia & Vietnam
 
 
 ## Goals for 2021
