@@ -1,4 +1,4 @@
-### Hi, I'm Franklin 👋 Developer, Designer and Volunteer!
+## Hi, I'm Franklin 👋 Developer, Designer and Volunteer!
 
 - 🔭 I’m currently working for [Thoughtworks](https://www.thoughtworks.com/en-au)
 - 🌱 I grew up in Australia and am hoping to immigrate to Germany soon
@@ -7,11 +7,11 @@
 - ⚡ Fun fact: I travel to atleast one new country every year and make a travel video
 
 
-## Public Deployed Projects:
+### Public Deployed Projects:
 [✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [🕹️ Squad Picker](https://mass-effect-crewed.herokuapp.com/) | [📈 Stock Tracker](http://tw-stock-tracker.franklinvmoon.com/) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
 
 
-## Goals for 2022
+### Goals for 2022
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
 | GraphQL | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
@@ -21,7 +21,7 @@
 
 
 
-## Goals for 2021
+### Goals for 2021
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
 | ~~Typescript~~ | ~~React~~ | ~~Docker~~ | ~~Deploy to AWS EC2~~ | ~~Test Driven Development~~ |
@@ -31,7 +31,7 @@
 | Go |  |  | Deploy to Firebase |  |
  
 
-## Goals for 2020
+### Goals for 2020
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
 | ~~Python~~ | ~~Flask~~ | ~~Adobe Premiere~~ | ~~Deploy to Python Anywhere~~ | ~~Functional Programming~~ |
