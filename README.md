@@ -10,7 +10,6 @@
 
 ## Goals for 2022
 | Languages | Frameworks | Tools | Cloud | Misc. |
-| Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
 | C# | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
 | Bash/Shell |  | Unity Engine 2D | AWS Gateway | Volunteer | 
