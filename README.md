@@ -14,10 +14,9 @@
 | ----- | ----- | ----- | ----- | ----- |
 | C# | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
 | Bash/Shell |  | Unity Engine 2D | AWS Gateway | Volunteer | 
-| GraphQL |  | OAuth 2.0 | AWS Gateway | Travel Thailand, Cambodia & Vietnam |
-| German |  |  | AWS Lambda |  |
+| GraphQL |  | OAuth 2.0 | AWS Lambda |  |
+| German |  |  | Deploy to Vercel |  |
 |  |  |  | Redis |  |
-|  |  |  | Deploy to Vercel |  |
 
 
 
@@ -26,46 +25,22 @@
 | ----- | ----- | ----- | ----- | ----- |
 | ~~Typescript~~ | ~~Rapid API~~ | ~~CircleCI~~ | ~~Deploy to Heroku~~ | ~~Test Driven Development~~ |
 | GoLang | ~~React~~ | ~~Git~~ | ~~Deploy to AWS EC2~~ | ~~Object-Oriented Programming~~ |
-| ~~ES6 Javascript~~ | ~~Axios / REST~~ | ~~Docker~~ | ~~Terraform~~ | ~~Adobe InDesign~~ |
-| GraphQL |  ~~Axios / REST~~ | ~~PostgreSQL~~ | Deploy to Firebase | ~~Figma~~ |
+| ~~ES6 Javascript~~ | ~~Axios / REST~~ | ~~Docker~~ | ~~Terraform~~ |  |
+| GraphQL |  ~~Axios / REST~~ | ~~PostgreSQL~~ | Deploy to Firebase |  |
 | ~~Java~~ | ~~SpringBoot~~ | Wix |  | Teach Programming |
-| Ruby | | ~~Auth0~~ |  | ~~Travel Australia~~ |
+| Ruby | | ~~Auth0~~ |  |  |
+|  |  | ~~Adobe InDesign~~ |  |  |
+|  |  | ~~Figma~~ |  |  |
 
 
 ## Goals for 2020
-~~Python~~
-
-~~Flask~~
-
-~~Django~~
-
-~~Deploy to Python Anywhere~~
-
-Deploy to AWS
-
-~~HTML 5~~
-
-~~CSS~~
-
-~~Javascript~~
-
-~~ExpressJS~~
-
-~~JQuery~~
-
-~~MySQL~~
-
-Docker
-
-~~Adobe XD~~
-
-~~Adobe After Effects~~
-
-~~Adobe Premiere~~
-
-~~Live in Japan~~
-
-Live in China
+| Languages | Frameworks | Tools | Cloud | Misc. |
+| ----- | ----- | ----- | ----- | ----- |
+| ~~Python~~ | ~~Flask~~ | Docker | ~~Deploy to Python Anywhere~~ |  |
+| SQL | ~~Django~~ | ~~Adobe XD~~ | Deploy to AWS |  |
+| ~~HTML 5~~ | ~~ExpressJS~~ | ~~Adobe After Effects~~ |  |  |
+| ~~CSS~~ | ~~JQuery~~ | ~~Adobe Premiere~~ |  |  |
+| ~~Javascript~~ |  |  |  |  |
 
 
 ## Quick Links
