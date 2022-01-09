@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I travel to atleast one new country every year and make a travel video
 
 
-## Quick Links
-[💼 LinkedIn](https://www.linkedin.com/in/franklin-moon-23572518a/) | [🕹️ Squad Picker](https://mass-effect-crewed.herokuapp.com/) | [✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [📈 Stock Tracker](http://tw-stock-tracker.franklinvmoon.com/) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
+## Deployed PRojects:
+[✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [🕹️ Squad Picker](https://mass-effect-crewed.herokuapp.com/) | [📈 Stock Tracker](http://tw-stock-tracker.franklinvmoon.com/) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
 
 
 ## Goals for 2022
@@ -26,9 +26,9 @@
 | ----- | ----- | ----- | ----- | ----- |
 | ~~Typescript~~ | ~~SpringBoot~~ | ~~Docker~~ | ~~Deploy to AWS EC2~~ | ~~Test Driven Development~~ |
 | ~~Java~~ | ~~React~~ | ~~Git~~ | ~~Deploy to Heroku~~ | ~~Object-Oriented Programming~~ |
-| ~~ES6 Javascript~~ | ~~Adobe InDesign~~ | ~~PostgreSQL~~ | ~~Terraform~~ |  |
-| GraphQL |  ~~Auth0~~ | ~~Figma~~ | ~~CircleCI~~ |  |
-| Go | ~~Rapid API~~ |  | Deploy to Firebase |  |
+| ~~ES6 Javascript~~ | ~~Rapid API~~ | ~~Adobe InDesign~~ | ~~Terraform~~ |  |
+| GraphQL |  | ~~Figma~~ | ~~CircleCI~~ |  |
+| Go |  |  | Deploy to Firebase |  |
  
 
 ## Goals for 2020
