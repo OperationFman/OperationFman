@@ -29,50 +29,50 @@
 
 ## Goals for 2021
 - [x] ~~Rapid API~~
-- [x] React
-- [x] Typescript
+- [x] ~~React
+- [x] ~~Typescript
 - [ ] GraphQL
-- [x] Git
-- [x] Test Driven Development
-- [x] Object-Oriented Programming
-- [x] CircleCI
-- [x] Deploy to Heroku
+- [x] ~~Git
+- [x] ~~~~Test Driven Development
+- [x] ~~Object-Oriented Programming
+- [x] ~~CircleCI
+- [x] ~~Deploy to Heroku
 - [ ] GoLang
-- [x] ES6 Javascript
-- [x] PostgreSQL
-- [x] Axios / REST
+- [x] ~~ES6 Javascript
+- [x] ~~PostgreSQL
+- [x] ~~Axios / REST
 - [ ] Ruby
-- [x] Java
-- [x] SpringBoot
-- [x] Docker
-- [x] Deploy to AWS EC2
-- [x] Terraform
+- [x] ~~Java
+- [x] ~~SpringBoot
+- [x] ~~Docker
+- [x] ~~Deploy to AWS EC2
+- [x] ~~Terraform
 - [ ] Deploy to Firebase
 - [ ] Wix
-- [x] Auth0
-- [x] Adobe InDesign
-- [x] Figma
+- [x] ~~Auth0
+- [x] ~~Adobe InDesign
+- [x] ~~Figma
 - [ ] Teach Programming
-- [x] Travel Australia
+- [x] ~~Travel Australia
 
 
 ## Goals for 2020
-- [x] Python
-- [x] Flask
-- [x] Django
-- [x] Deploy to Python Anywhere
+- [x] ~~Python
+- [x] ~~Flask
+- [x] ~~Django
+- [x] ~~Deploy to Python Anywhere
 - [ ] Deploy to AWS
-- [x] HTML 5
-- [x] CSS
-- [x] Javascript
-- [x] ExpressJS
-- [x] JQuery
-- [x] MySQL
+- [x] ~~HTML 5
+- [x] ~~CSS
+- [x] ~~Javascript
+- [x] ~~ExpressJS
+- [x] ~~JQuery
+- [x] ~~MySQL
 - [ ] Docker
-- [x] Adobe XD
-- [x] Adobe After Effects
-- [x] Adobe Premiere
-- [x] Live in Japan
+- [x] ~~Adobe XD
+- [x] ~~Adobe After Effects
+- [x] ~~Adobe Premiere
+- [x] ~~Live in Japan
 - [ ] Live in China
 
 ## Quick Links
