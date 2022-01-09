@@ -13,9 +13,8 @@
 | ----- | ----- | ----- | ----- | ----- |
 | C# | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
 | Bash/Shell |  | Unity Engine 2D | AWS Gateway | Volunteer | 
-| GraphQL |  | OAuth 2.0 | AWS Lambda |  |
+| GraphQL |  | Redis | AWS Lambda |  |
 | German |  |  | Deploy to Vercel |  |
-|  |  |  | Redis |  |
 
 
 
