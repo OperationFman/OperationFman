@@ -36,7 +36,7 @@
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
 | ~~Python~~ | ~~Flask~~ | Docker | ~~Deploy to Python Anywhere~~ | ~~Functional Programming~~ |
-| SQL | ~~Django~~ | ~~Adobe XD~~ | Deploy to AWS |  |
+| ~~SQL~~ | ~~Django~~ | ~~Adobe XD~~ | Deploy to AWS |  |
 | ~~Javascript~~ | ~~ExpressJS~~ | ~~Adobe After Effects~~ |  |  |
 | ~~HTML 5~~ | ~~JQuery~~ | ~~Adobe Premiere~~ |  |  |
 | ~~CSS 3~~ |  |  |  |  |
