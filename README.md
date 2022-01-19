@@ -16,7 +16,7 @@
 | ---------- | ------------ | --------------- | ---------------- | ---------------------------- |
 | GraphQL    | React Native | Kubernetes      | AWS DynamoDB     | Contribute to Stack Overflow |
 | Bash/Shell | Next.js      | Unity Engine 2D | AWS Gateway      |                              |
-| C#         |              | Redis           | AWS Lambda       |                              |
+| C#         |              |                 | AWS Lambda       |                              |
 | German     |              |                 | Deploy to Vercel |                              |
 
 ### Goals for 2021
