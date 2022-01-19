@@ -15,7 +15,7 @@
 | Languages | Frameworks | Tools | Cloud | Misc. |
 | ----- | ----- | ----- | ----- | ----- |
 | GraphQL | React Native | Kubernetes | AWS DynamoDB | Contribute to Stack Overflow |
-| Bash/Shell |  | Unity Engine 2D | AWS Gateway | Volunteer | 
+| Bash/Shell | Next.js | Unity Engine 2D | AWS Gateway | Volunteer | 
 | C# |  | Redis | AWS Lambda |  |
 | German |  |  | Deploy to Vercel |  |
 
