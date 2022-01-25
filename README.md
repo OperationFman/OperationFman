@@ -17,7 +17,7 @@
 | GraphQL    | ~~Next.js~~  | Kubernetes      | Deploy to Vercel | Contribute to Stack Overflow |
 | Bash/Shell | React Native | Unity           | AWS Gateway      | WebSockets                   |
 | C#         | Material UI  |                 | AWS Lambda       |                              |
-| German     |              |                 | AWS DynamoDB     |                              |
+| German     |              |                 | ~AWS DynamoDB~   |                              |
 
 ### Goals for 2021
 
