@@ -14,10 +14,10 @@
 
 | Languages  | Frameworks   | Tools           | Cloud            | Misc.                        |
 | ---------- | ------------ | --------------- | ---------------- | ---------------------------- |
-| GraphQL    | ~~Next.js~~  | Kubernetes      | Deploy to Vercel | Contribute to Stack Overflow |
-| Bash/Shell | React Native | Unity           | AWS Gateway      | WebSockets                   |
-| C#         | Material UI  |                 | AWS Lambda       |                              |
-| German     |              |                 | ~AWS DynamoDB~   |                              |
+| GraphQL    | ~~Next.js~~  | Kubernetes      | ~AWS DynamoDB~   | Contribute to Stack Overflow |
+| Bash/Shell | React Native | Unity           | AWS Gateway      |                              |
+| C#         |              |                 | AWS Lambda       |                              |
+| German     |              |                 |                  |                              |
 
 ### Goals for 2021
 
