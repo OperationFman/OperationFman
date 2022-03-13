@@ -12,12 +12,12 @@
 
 ### Goals for 2022
 
-| Languages  | Frameworks   | Tools           | Cloud              | Misc.                        |
-| ---------- | ------------ | --------------- | ------------------ | ---------------------------- |
-| GraphQL    | ~~Next.js~~  | Kubernetes      | ~AWS DynamoDB~     | Contribute to Stack Overflow |
-| Bash/Shell | React Native | Unity           | AWS Gateway        | Accessibility                |
-| C#         |              |                 | AWS Lambda         |                              |
-| German     |              |                 | Deploy with Vercel |                              |
+| Languages  | Frameworks   | Tools           | Cloud                  | Misc.                        |
+| ---------- | ------------ | --------------- | -----------------------| ---------------------------- |
+| GraphQL    | ~~Next.js~~  | ~~MaterialUI~~  | ~~AWS DynamoDB~~       | Contribute to Stack Overflow |
+| Bash/Shell | React Native | Unity           | ~~Deploy with Vercel~~ | Accessibility                |
+| C#         |              | Kubernetes      | AWS Lambda             |                              |
+| German     |              |                 | AWS Gateway            |                              |
 
 ### Goals for 2021
 
