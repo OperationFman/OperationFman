@@ -16,7 +16,7 @@
 | --------------- | ---------------- | --------------- | -----------------------| ---------------------------- |
 | ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~  | ~~AWS DynamoDB~~       |                              |
 | Bash/Shell      | ~~React Native~~ | Unity           | ~~Deploy with Vercel~~ |                              |
-| C#              |                  | Kubernetes      | AWS CDK                |                              |
+| C#              |                  | Kubernetes      |                        |                              |
 | German          |                  |                 | AWS Lambda             |                              |
 
 ### Goals for 2021
