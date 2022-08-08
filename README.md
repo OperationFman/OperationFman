@@ -15,9 +15,9 @@
 | Languages       | Frameworks       | Tools           | Cloud                  | Misc.                        |
 | --------------- | ---------------- | --------------- | -----------------------| ---------------------------- |
 | ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~  | ~~AWS DynamoDB~~       |                              |
-| Bash/Shell      | ~~React Native~~ | Unity           | ~~Deploy with Vercel~~ |                              |
+| Bash/Shell      | ~~React Native~~ | React Spring    | ~~Deploy with Vercel~~ |                              |
 | C#              |                  | Kubernetes      | AWS Lambda             |                              |
-| German          |                  |                 |                        |                              |
+| German          |                  | Unity           |                        |                              |
 
 ### Goals for 2021
 
