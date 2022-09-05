@@ -12,12 +12,12 @@
 
 ### Goals for 2022
 
-| Languages       | Frameworks       | Tools            | Cloud                  | Misc.                          |
-| --------------- | ---------------- | ---------------- | -----------------------| ------------------------------ |
-| ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~   | ~~AWS DynamoDB~~       |  Attend a conference overseas  |
-| Bash/Shell      | ~~React Native~~ | ~~React Spring~~ | ~~Deploy with Vercel~~ |                                |
-| C#              |                  | Kubernetes       | AWS Lambda             |                                |
-| German          |                  | Unity            |                        |                                |
+| Languages       | Frameworks       | Tools            | Cloud                  | Misc.                           |
+| --------------- | ---------------- | ---------------- | -----------------------| ------------------------------- |
+| ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~   | ~~AWS DynamoDB~~       |  ~~Work With Legacy Code~~      |
+| Bash/Shell      | ~~React Native~~ | ~~React Spring~~ | ~~Deploy with Vercel~~ |  Attend an Overseas Conference  |
+| C#              |                  | Kubernetes       | AWS Lambda             |                                 |
+| German          |                  | Unity            |                        |                                 |
 
 ### Goals for 2021
 
