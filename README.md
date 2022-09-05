@@ -17,7 +17,7 @@
 | ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~   | ~~AWS DynamoDB~~       |  ~~Work With Legacy Code~~      |
 | Bash/Shell      | ~~React Native~~ | ~~React Spring~~ | ~~Deploy with Vercel~~ |  Attend an Overseas Conference  |
 | C#              |                  | Kubernetes       | AWS Lambda             |                                 |
-| German          |                  | Unity            |                        |                                 |
+| A1.2 German     |                  | Unity            |                        |                                 |
 
 ### Goals for 2021
 
