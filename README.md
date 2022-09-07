@@ -8,7 +8,7 @@
 
 ### Publicly Deployed Projects:
 
-[✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [🕹️ Squad Picker](https://mass-effect-crewed.herokuapp.com/) | [📈 Stock Tracker](http://tw-stock-tracker.franklinvmoon.com/) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
+[👤 Portfolio](https://github.com/OperationFman/portfolio) | [✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [🕹️ Squad Picker](https://mass-effect-crewed.herokuapp.com/) | [📈 Stock Tracker](http://tw-stock-tracker.franklinvmoon.com/) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
 
 ### Goals for 2022
 
