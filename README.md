@@ -12,29 +12,9 @@
 
 ### Goals for 2022
 
-| Languages       | Frameworks       | Tools            | Cloud                  | Misc.                               |
-| --------------- | ---------------- | ---------------- | -----------------------| ----------------------------------- |
-| ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~   | ~~AWS DynamoDB~~       |  ~~Work With Legacy Code~~          |
-| Bash/Shell      | ~~React Native~~ | ~~React Spring~~ | ~~Deploy with Vercel~~ |  ~~Attend an Overseas Conference~~  |
-| C#              |                  | Kubernetes       | AWS Lambda             |                                     |
-| A1.2 German     |                  | Unity            |                        |                                     |
-
-### Goals for 2021
-
-| Languages          | Frameworks     | Tools              | Cloud                 | Misc.                           |
-| ------------------ | -------------- | ------------------ | --------------------- | ------------------------------- |
-| ~~Typescript~~     | ~~React~~      | ~~Docker~~         | ~~Deploy to AWS EC2~~ | ~~Test Driven Development~~     |
-| ~~Java~~           | ~~SpringBoot~~ | ~~Git~~            | ~~Deploy to Heroku~~  | ~~Object-Oriented Programming~~ |
-| ~~ES6 Javascript~~ | ~~Rapid API~~  | ~~Adobe InDesign~~ | ~~Terraform~~         |                                 |
-| GraphQL            |                | ~~Figma~~          | ~~CircleCI~~          |                                 |
-| Go                 |                |                    | Deploy to Firebase    |                                 |
-
-### Goals for 2020
-
-| Languages      | Frameworks    | Tools                   | Cloud                         | Misc.                      |
-| -------------- | ------------- | ----------------------- | ----------------------------- | -------------------------- |
-| ~~Python~~     | ~~Flask~~     | ~~Adobe Premiere~~      | ~~Deploy to Python Anywhere~~ | ~~Functional Programming~~ |
-| ~~SQL~~        | ~~Django~~    | ~~Adobe XD~~            | Deploy to AWS                 |                            |
-| ~~Javascript~~ | ~~ExpressJS~~ | ~~Adobe After Effects~~ |                               |                            |
-| ~~HTML 5~~     | ~~JQuery~~    | Docker                  |                               |                            |
-| ~~CSS 3~~      |               |                         |                               |                            |
+| Languages       | Frameworks       | Tools            | Cloud                    | Misc.                     |
+| --------------- | ---------------- | ---------------- | -------------------------| ------------------------- |
+| ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~   | ~~AWS DynamoDB~~         |  ~~Legacy Code~~          |
+| C#              | ~~React Native~~ | ~~React Spring~~ | ~~Deploy with Vercel~~   |  ~~Attend a Conference~~  |
+| A1.2 German     | ~~Redux~~        | Kubernetes       | ~~Deploy with OnRender~~ |                           |
+|                 |                  | Unity            | AWS Lambda               |                           |
