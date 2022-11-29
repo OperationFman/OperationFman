@@ -6,10 +6,6 @@
 - 😄 Pronouns: Anything you like, He/She/Them all-good
 - ⚡ Fun fact: I travel to atleast one new country every year and make a travel video
 
-### Publicly Deployed Projects:
-
-[👤 Portfolio](https://www.franklin-v-moon.dev) | [✈️ Travel Blog](https://frankstravelblog.pythonanywhere.com/) | [🥇 First Ever Project](http://opfman.pythonanywhere.com/)
-
 ### Goals for 2022
 
 | Languages       | Frameworks       | Tools            | Cloud                    | Misc.                     |
