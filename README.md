@@ -13,4 +13,4 @@
 | ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~   | ~~AWS DynamoDB~~         |  ~~Legacy Code~~          |
 | C#              | ~~React Native~~ | ~~React Spring~~ | ~~Deploy with Vercel~~   |  ~~Attend a Conference~~  |
 | A1.2 German     | ~~Redux~~        | Kubernetes       | ~~Deploy with OnRender~~ |                           |
-|                 |                  | Unity            | AWS Lambda               |                           |
+|                 |                  | Unity            |                          |                           |
