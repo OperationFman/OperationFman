@@ -6,3 +6,4 @@
 - 😄 Pronouns: Anything you like, He/She/Them all-good
 - ⚡ Fun fact: I travel to one new country every 3-6 months and make a travel video
 
+My 2023 goals are to learn C#, .NET and some Unity as well as dive deeper into cloud infrastructure.
