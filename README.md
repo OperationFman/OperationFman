@@ -6,11 +6,3 @@
 - 😄 Pronouns: Anything you like, He/She/Them all-good
 - ⚡ Fun fact: I travel to atleast one new country every year and make a travel video
 
-### Goals for 2022
-
-| Languages       | Frameworks       | Tools            | Cloud                    | Misc.                     |
-| --------------- | ---------------- | ---------------- | -------------------------| ------------------------- |
-| ~~GraphQL~~     | ~~Next.js~~      | ~~MaterialUI~~   | ~~AWS DynamoDB~~         |  ~~Legacy Code~~          |
-| C#              | ~~React Native~~ | ~~React Spring~~ | ~~Deploy with Vercel~~   |  ~~Attend a Conference~~  |
-| A1.2 German     | ~~Redux~~        | Kubernetes       | ~~Deploy with OnRender~~ |                           |
-|                 |                  | Unity            |                          |                           |
