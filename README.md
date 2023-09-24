@@ -1,7 +1,7 @@
-## Hi, I'm Franklin 👋 Developer, Designer and Volunteer!
+## Hi, I'm Franklin 👋 Developer and Designer
 
 - 🔭 Software developer consultant at [Thoughtworks](https://www.thoughtworks.com/en-au)
 - 🌱 Grew up in Australia and living in Thailand 🇹🇭
-- 💬 Ask me about solo backpacking every country the Middle-East 🐪
+- 💬 Ask me about solo backpacking every country in the Middle-East 🐪
 - 😄 Pronouns: Anything you like, He/She/Them all-good
 - 🖤☀️❤️ Proudly indigenous from the winda-mara mob
